@@ -5,12 +5,6 @@
 #include <sstream>
 
 using namespace std;
-///////////////////////////////////////
-//Student Name : Gülsüm İkbal Avşar
-//Student ID : 64180006
-//Department: CoE
-// Assignment No: HW4
-//////////////////////////////////////
 
 //Define an abstract Person class that has virtual print() function for printing the
 //information about a person.
